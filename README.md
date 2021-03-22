@@ -12,7 +12,7 @@ Find the following file on your device.
 
 ## Drop in the ports
 - Download the latest release from the releases section.
-- Place the contents of the release package into the `ports` folder in your `roms` directory, create it if it doesn't already exist.
+- Place the contents of the release package into the `ports` folder of your `roms` directory, create it if it doesn't already exist.
 
 ## Finally
 I have only tested Cave Story & Quake. Shareware version of Quake is included. You may have to source game files for the other "Ports" to work.
